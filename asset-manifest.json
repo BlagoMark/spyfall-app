@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/spyfall-app/static/css/main.951b8a54.css",
-    "main.js": "/spyfall-app/static/js/main.9594a129.js",
+    "main.js": "/spyfall-app/static/js/main.531f06d4.js",
     "static/js/787.1fd82cc8.chunk.js": "/spyfall-app/static/js/787.1fd82cc8.chunk.js",
     "index.html": "/spyfall-app/index.html",
     "main.951b8a54.css.map": "/spyfall-app/static/css/main.951b8a54.css.map",
-    "main.9594a129.js.map": "/spyfall-app/static/js/main.9594a129.js.map",
+    "main.531f06d4.js.map": "/spyfall-app/static/js/main.531f06d4.js.map",
     "787.1fd82cc8.chunk.js.map": "/spyfall-app/static/js/787.1fd82cc8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.951b8a54.css",
-    "static/js/main.9594a129.js"
+    "static/js/main.531f06d4.js"
   ]
 }
