@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.951b8a54.css",
-    "main.js": "/static/js/main.f699f059.js",
-    "static/js/787.1fd82cc8.chunk.js": "/static/js/787.1fd82cc8.chunk.js",
-    "index.html": "/index.html",
-    "main.951b8a54.css.map": "/static/css/main.951b8a54.css.map",
-    "main.f699f059.js.map": "/static/js/main.f699f059.js.map",
-    "787.1fd82cc8.chunk.js.map": "/static/js/787.1fd82cc8.chunk.js.map"
+    "main.css": "/spyfall-app/static/css/main.951b8a54.css",
+    "main.js": "/spyfall-app/static/js/main.e1ab36a4.js",
+    "static/js/787.1fd82cc8.chunk.js": "/spyfall-app/static/js/787.1fd82cc8.chunk.js",
+    "index.html": "/spyfall-app/index.html",
+    "main.951b8a54.css.map": "/spyfall-app/static/css/main.951b8a54.css.map",
+    "main.e1ab36a4.js.map": "/spyfall-app/static/js/main.e1ab36a4.js.map",
+    "787.1fd82cc8.chunk.js.map": "/spyfall-app/static/js/787.1fd82cc8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.951b8a54.css",
-    "static/js/main.f699f059.js"
+    "static/js/main.e1ab36a4.js"
   ]
 }
